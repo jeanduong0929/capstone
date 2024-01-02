@@ -1,0 +1,11 @@
+python-dotenv
+langchain == 0.0.330
+openai == 0.28.1
+pandas
+pypdf
+psycopg2-binary
+pkgconfig
+mysqlclient
+pinecone-client
+tiktoken
+streamlit
